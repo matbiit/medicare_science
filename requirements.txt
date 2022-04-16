@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+fastapi
+uvicorn
+pydantic
+typing
